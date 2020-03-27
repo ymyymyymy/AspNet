@@ -1,0 +1,10 @@
+D:\三层\三层学习\新建文件夹\RestaurantSystem\Model\bin\Debug\Model.dll
+D:\三层\三层学习\新建文件夹\RestaurantSystem\Model\bin\Debug\Model.pdb
+D:\三层\三层学习\新建文件夹\RestaurantSystem\Model\obj\Debug\Model.dll
+D:\三层\三层学习\新建文件夹\RestaurantSystem\Model\obj\Debug\Model.pdb
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\Model\bin\Debug\Model.dll
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\Model\bin\Debug\Model.pdb
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\Model\obj\Debug\Model.dll
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\Model\obj\Debug\Model.pdb

@@ -1,0 +1,4 @@
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\obj\Debug\netcoreapp2.0\RestaurantSystem.csprojAssemblyReference.cache
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\obj\Debug\netcoreapp2.0\RestaurantSystem.csproj.CoreCompileInputs.cache
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\obj\Debug\netcoreapp2.0\RestaurantSystem.AssemblyInfoInputs.cache
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\obj\Debug\netcoreapp2.0\RestaurantSystem.AssemblyInfo.cs

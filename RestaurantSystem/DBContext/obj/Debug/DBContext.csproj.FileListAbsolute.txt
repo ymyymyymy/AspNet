@@ -1,0 +1,10 @@
+D:\三层\三层学习\新建文件夹\RestaurantSystem\DBContext\bin\Debug\DBContext.dll
+D:\三层\三层学习\新建文件夹\RestaurantSystem\DBContext\bin\Debug\DBContext.pdb
+D:\三层\三层学习\新建文件夹\RestaurantSystem\DBContext\obj\Debug\DBContext.dll
+D:\三层\三层学习\新建文件夹\RestaurantSystem\DBContext\obj\Debug\DBContext.pdb
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\DBContext\bin\Debug\DBContext.dll
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\DBContext\bin\Debug\DBContext.pdb
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\DBContext\obj\Debug\DBContext.csprojAssemblyReference.cache
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\DBContext\obj\Debug\DBContext.csproj.CoreCompileInputs.cache
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\DBContext\obj\Debug\DBContext.dll
+D:\课程\青大\点餐系统\毕业设计\新建文件夹\RestaurantSystem\RestaurantSystem\DBContext\obj\Debug\DBContext.pdb

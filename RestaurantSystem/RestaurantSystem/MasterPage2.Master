@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage2.master.cs" Inherits="RestaurantSystem.MasterPage2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+     <center>
+    <div style="width:850px; height:650px; border:solid 2px red; position:relative;top:2%; left:1%;" >
+        
+             <div style=" border-bottom:solid 2px red; width:850px; height:200px; position:absolute;top:0px; left:0px; ">
+              <img src="images/Manager.jpg" style="width:850px; height:200px"  />
+            </div>
+            <div style="float:left; width:220px; height:450px; border-right:solid 2px red; position :absolute;top:205px; left:0px;">
+                <div>
+                    <br />
+                    <br />
+                    <br />
+                    <asp:LinkButton ID="LinkButton1" runat="server" onclick="LinkButton1_Click">alter user</asp:LinkButton>
+                    
+              
+                    <br />
+                    <br />
+                    <br />
+                    
+              
+                </div>
+                <div>
+                    <asp:LinkButton ID="LinkButton2" runat="server" onclick="LinkButton2_Click">alter menu</asp:LinkButton>
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                </div>
+                <div>
+                    <asp:LinkButton ID="LinkButton3" runat="server" onclick="LinkButton3_Click">alter table</asp:LinkButton>
+                    <br />
+                    <br />
+                    <br />
+                </div>
+            </div>
+            <div  style="float:right;  width:630px; height:450px; position :absolute; top:200px; right:0px;">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+         </center>
+    </form>
+</body>
+</html>

@@ -1,0 +1,63 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage1.master.cs" Inherits="RestaurantSystem.MasterPage1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style2 {
+            width: 1000px;
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="width: 800px; height: 840px; border:1px; border-style:solid; border-color:Black; position:relative;
+        top: 0px; left: 0px;">
+        <div  style="width: 800px; height:200px;">
+            <asp:Image ID="Image1" runat="server" Height="200px"  Width ="800px" ImageUrl="~/images/index.jpg" />
+        </div>
+        <div style="width: 800px; height: 40px; position:absolute; top:200px; left:0px; border:1px; border-style:solid; border-color:Red; background-color: #FF3300;" 
+            align="center"><br />opening time ：6:00am-9:00pm</div>
+        <div style="width: 800px; height: 600px; position:absolute; top:240px; left:0px; border:1px; border-style:solid; border-color:Red;">
+        <div style ="padding: 0px; margin: 0px;  width:200px; height:600px; border-color:Red; border-style:solid; background-color: #FFFFCC;">
+            <br />
+            <br />
+            <div style="width: 200px; height: 550px;position:absolute; padding-top:50px; top:0px; left:0px; border:1px; border-style:solid; border-color:Red; background-color: #FFFFCC;font-family:Verdana; " align="center">
+               
+            <div style="padding: 0px; margin: 0px; width: 600px; height: 600px; position:absolute; top:0px; left:200px; border:1px; border-style:solid; border-color:Red;">
+   
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+   
+            </div>
+                <asp:LinkButton ID="LinkButton1" runat="server" onclick="LinkButton1_Click">select table</asp:LinkButton>
+                <br />
+                <br />
+                <br />
+                <asp:LinkButton ID="LinkButton3" runat="server" onclick="LinkButton3_Click">change table</asp:LinkButton>
+                <br />
+                <br />
+                <br />
+                <asp:LinkButton ID="LinkButton4" runat="server" onclick="LinkButton4_Click">order dish</asp:LinkButton>
+                <br />
+                <br />
+                <br />
+                <asp:LinkButton ID="LinkButton6" runat="server" onclick="LinkButton6_Click">add dish</asp:LinkButton>
+                <br />
+                <br />
+                <br />
+                <asp:LinkButton ID="LinkButton5" runat="server" onclick="LinkButton5_Click"> check out</asp:LinkButton>
+        </div>
+            <br />
+            </div>
+         </div>
+        </div>
+    </form>
+</body>
+</html>
